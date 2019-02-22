@@ -15,7 +15,7 @@ Then after we can bring some objects to show the refracting and reflecting natur
 
 
 
-# 21. Living and non living things
+# 22. Living and non living things
 ### card game
 For this game, you need cards that have pictures on it. You can use a combination of pictures like, neem tree, lions, tulsi, mommy, a robotic toy, or a remote controlled car etc.
 Ask the kid to drag and put the card in above classified area which were living and non-living things
@@ -31,7 +31,7 @@ Ask the kid to drag and put the card in above classified area which were living 
 | Is it human made? etc |
 
 
-# 22. Manner
+# 23. Manner
 Create any situation via graphics such as : "show a toy and two children痴  and suggest options what can be done like sharing, or just playing by itself as the kid select the option show the effect of what happened  due to that option and give points in form of chocolates or can appreciate in any form.
 #### Various situations can be formed to teach below manner
 | Below are some        |
@@ -42,8 +42,8 @@ Create any situation via graphics such as : "show a toy and two children痴  and
 ![alt text](https://github.com/shiwanshumani/temporaryfiles/blob/master/manner.png "Eg of manner ")
 
 
-# 23. Matter
+# 24. Matter
 For this game you need some educational instructions in the form of animated graphics in below form Image
 ![alt text](https://github.com/shiwanshumani/temporaryfiles/blob/master/matter.png )
 then after we can implement the above knowledge in a game name "kill thanos".
-In this game if the kid throw a solid object then it will damage the health of thanos at max rate compared to liquid and then gas, the damage will depend on the density ob the object.
+In this game if the kid throw a solid object then it will damage the health of thanos at max rate compared to liquid and then gas, the damage will depend on the density do the object.
