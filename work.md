@@ -82,7 +82,7 @@ In pattern we can show the patterns and provide options according to the pattern
 # 29. Number spelling
 ### Spell crush
 We can build a game like candy crush where replace all candies with alphabets and flash a number on screen ask the kids swap only those alphabets that are required to build a complete no, in beginner level we can colour the alphabets that are likely to form that no as the level came up unmark those alphabets whereas all other features will remain same as candy crush.
-![alt text](https://github.com/shiwanshumani/temporaryfiles/blob/master/spell.png )
+![alt text](https://github.com/shiwanshumani/temporaryfiles/blob/master/spell.jpg )
 
 # 30. Opposites
 ### Swipe
