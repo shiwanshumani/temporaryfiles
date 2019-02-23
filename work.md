@@ -47,3 +47,27 @@ For this game you need some educational instructions in the form of animated gra
 ![alt text](https://github.com/shiwanshumani/temporaryfiles/blob/master/matter.png )
 then after we can implement the above knowledge in a game name "kill thanos".
 In this game if the kid throw a solid object then it will damage the health of thanos at max rate compared to liquid and then gas, the damage will depend on the density do the object.
+
+# 25. Measurement and its units
+I dont know
+
+
+# 26. Methods of addition
+We can build a game like Mario where the Mario will only jump the hurdle where a hurdle comes with a no attached with it, when the kid gives correct numbers which can sum up equal to the number attached to the hurdle.
+Other wise you will reduse the health of Mario or can name any character, can refference to below picture :
+![alt text](https://github.com/shiwanshumani/temporaryfiles/blob/master/addsub.png )
+
+# 27. Methods of Substraction
+Above same game but here we give options greater than hurdle value i.e kid have to sellect apropriate two numbers whose substraction will result the same no attached to the hurdle.
+
+# 28. Number comparison and patterns
+Game where people want to cross the bridge and that bridge can be build using specific pattern that can be selected from below the options, for number comparison we can associate two end of bridges with a number and just ask to choose a no greater than equal to the bridge length.
+![alt text]( https://github.com/shiwanshumani/temporaryfiles/blob/master/bridge.jpg )
+##### OR
+In pattern we can show the patterns and provide options according to the pattern then after reward the kid with chocolate or say points.
+![alt text](https://github.com/shiwanshumani/temporaryfiles/blob/master/comp.png )
+![alt text](https://github.com/shiwanshumani/temporaryfiles/blob/master/comp1.png )
+
+# 29. Number spelling
+
+# 30. Opposites
