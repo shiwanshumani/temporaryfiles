@@ -54,6 +54,7 @@ In this game if the kid throw a solid object then it will damage the health of t
 ### Fill the jar
 This game contains an empty box which is supposed to be filled with appropriate sized jar in the options in initial level options are limited but beyond that we can make the size of the jar variable according to the requirement which can be set by the kid.
 #### Parameters
+||
 | ------------- |
 |dimension of jar    | 
 | unit of dimension  | 
