@@ -101,6 +101,13 @@ You will lose when the wall is built completely, for a reference a picture is at
 
 # 67. Vowels and consonants
 ### Parking
-
+This is based on a parking game where the parking space of Vovels and consonants have different parking space, each car has a letter attached to it, kid is asked to park the car to its correct location whereas location belongs to either Vowels or consonants.
 
 ![alt text](https://github.com/shiwanshumani/temporaryfiles/blob/master/vovconc.jpg )
+
+# 68. Story Writing
+### Fill in
+Before start writing any story we ask the kid first to select the mood of the story, ask about few characters and then provide some half complete story which contains some blank space, then provide some options to fill the blanks.
+When these are filled fully then decide weather it is write or wrong and mark accordingly, snapshot of proposed game :
+
+![alt text](https://github.com/shiwanshumani/temporaryfiles/blob/master/Untitled.png )
