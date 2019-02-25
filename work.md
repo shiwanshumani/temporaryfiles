@@ -91,3 +91,10 @@ We can use pictorial representation of opposites some are correct and some are n
 Then finally we can rate how much they learned according to their results, below given picture to show some pictorial representaion :
 
 ![alt text](https://github.com/shiwanshumani/temporaryfiles/blob/master/opp.png )
+
+# 66. Antonym and Synonym
+### Brick Game
+In this game a word is displayed at the lower part of a wall, this wall keeps increasing continuously until you select the correct brick from the above coming 4 brick only one is correct from 4, when you select the wrong one then wall increases more rapidly than usually else correct option will slow the rate of wall growth.
+You will lose when the wall is built completely, for a reference a picture is attached below :
+
+![alt text](https://github.com/shiwanshumani/temporaryfiles/blob/master/SYNANT.png "modified snapshot of brick game")
