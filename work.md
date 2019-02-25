@@ -98,3 +98,9 @@ In this game a word is displayed at the lower part of a wall, this wall keeps in
 You will lose when the wall is built completely, for a reference a picture is attached below :
 
 ![alt text](https://github.com/shiwanshumani/temporaryfiles/blob/master/SYNANT.png "modified snapshot of brick game")
+
+# 67. Vowels and consonants
+### Parking
+
+
+![alt text](https://github.com/shiwanshumani/temporaryfiles/blob/master/vovconc.jpg )
