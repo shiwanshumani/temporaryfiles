@@ -128,3 +128,10 @@ At begineer level we put the kid in a specific position in a family tree and ask
 Further on next level Instead of drag and drop we ask to write the names also to improve vocabulary
 
 eg : ![alt text](https://github.com/shiwanshumani/temporaryfiles/blob/master/family.png "snapshot of a scenario")
+
+# 72. Picture Composition
+### Fill in
+Initialy we show some pictures and ask some questions about these shown pictures so that it will clear the idea that the kid understand this picture then ask to write some thing about these pictures.
+We can use the same interactive app used in Story writing means provide some pre written words the ask to fill it.
+![alt text](https://github.com/shiwanshumani/temporaryfiles/blob/master/piccomp.png )
+![alt text](https://github.com/shiwanshumani/temporaryfiles/blob/master/piccomp2.png )
