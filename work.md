@@ -111,3 +111,20 @@ Before start writing any story we ask the kid first to select the mood of the st
 When these are filled fully then decide weather it is write or wrong and mark accordingly, snapshot of proposed game :
 
 ![alt text](https://github.com/shiwanshumani/temporaryfiles/blob/master/Untitled.png )
+
+# 69. Writing Composition
+
+Initially we can show a pictorial description of a situation and then ask the kid to write, at the begineer level we can suggest some paragraph to the kid to begin with and can provide some additional help if required.
+
+# 70. People and their work
+### Bujho to Jaane
+First we give a breif description of how do they look like with their profession, then after we can play a card game where we display a image on a casrd which is associated with some profession and ask to guess the kid what it actually is and can reward accordingly.
+we can provide some hint also if required.
+eg : ![alt text](https://github.com/shiwanshumani/temporaryfiles/blob/master/peopleandwork.jpg )
+
+# 71. Family Relations Vocabulary
+### Build the tree
+At begineer level we put the kid in a specific position in a family tree and ask to drag and drop the correct characters from the options to complete the tree.
+Further on next level Instead of drag and drop we ask to write the names also to improve vocabulary
+
+eg : ![alt text](https://github.com/shiwanshumani/temporaryfiles/blob/master/family.png "snapshot of a scenario")
